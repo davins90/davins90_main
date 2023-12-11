@@ -7,7 +7,7 @@ st.set_page_config(
     page_icon="💼",
 )
 
-utils.add_logo_and_name("images/foto_dani_cartoon.png","Daniele D'Avino",'Machine Learning Engineer @ Sky')
+utils.add_logo("app/images/foto_dani_cartoon.png","Daniele D'Avino",'Machine Learning Engineer @ Sky',200,"black",False)
 
 utils.sidebar_creation()
 
@@ -53,7 +53,7 @@ st.markdown("""
 ## Professional Certifications
 
 **Microsoft**
-- [Microsoft Professional Program in Data Science](https://github.com/davins90/davins90_main/blob/main/attachments/MPP_DS.pdf)
+- [Microsoft Professional Program in Data Science](app/attachments/MPP_DS.pdf)
 
   *Hot topics*: Querying and processing data, deploying supervised and unsupervised machine learning model, visualizing results and creating storytelling for data communication.
   
@@ -61,7 +61,7 @@ st.markdown("""
   
   *Final project*: Developed supervised machine learning model for predicting county-level rents in US, given socio-economic/demographic information.
 
-- [Microsoft Professional Program in Artificial Intelligence](https://github.com/davins90/davins90_main/blob/main/attachments/MPP_AI.pdf)
+- [Microsoft Professional Program in Artificial Intelligence](app/attachments/MPP_AI.pdf)
 
   *Hot topics*: Processing data, deploying deep learning and reinforcement learning model for imagine recognition and classification tasks.
   
@@ -118,15 +118,6 @@ I developed an agile working methodology using the following tools:
 - *Proficient*: Python, SQL, GIT, Google Cloud Product (Cloud Storage, Artifact, Vertex AI), Docker, LLM
 - *Familiar*: C++, Matlab, VBA, R, Tableau, AWS, Power BI, Bloomberg
 
+[Click here](app/attachments/cv_daniele_davino.pdf) for a pdf version of my CV!
 """, unsafe_allow_html=True)
-
-pdf_path = "attachments/cv_daniele_davino.pdf"
-
-with open(pdf_path, "rb") as pdf_file:
-    PDFbyte = pdf_file.read()
-
-st.download_button(label="Download Resumé PDF",
-                    data=PDFbyte,
-                    file_name="cv_daniele_davino.pdf",
-                    mime='application/octet-stream')
 
