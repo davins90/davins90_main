@@ -67,7 +67,7 @@ def add_logo_and_name(logo_url: str, name: str, title: str, height: int = 200):
                 right: 0;
                 white-space: pre-wrap;
                 text-align: center;
-                color: black; /* Or any color that fits the sidebar theme */
+                color: white; /* Or any color that fits the sidebar theme */
                 font-size: 18px; /* Or the size that fits the sidebar theme */
                 font-weight: bold;
             }}
