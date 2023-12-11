@@ -7,7 +7,7 @@ st.set_page_config(
     page_icon="🏠",
 )
 
-utils.add_logo_and_name("app/images/foto_dani_cartoon.png","Daniele D'Avino",'Machine Learning Engineer @ Sky')
+utils.add_logo_and_name("images/foto_dani_cartoon.png","Daniele D'Avino",'Machine Learning Engineer @ Sky')
 
 utils.sidebar_creation()
 
