@@ -118,6 +118,6 @@ I developed an agile working methodology using the following tools:
 - *Proficient*: Python, SQL, GIT, Google Cloud Product (Cloud Storage, Artifact, Vertex AI), Docker, LLM
 - *Familiar*: C++, Matlab, VBA, R, Tableau, AWS, Power BI, Bloomberg
 
-[Click here](./attachments/cv_daniele_davino.pdf) for a pdf version of my CV!
+[Click here](app/attachments/cv_daniele_davino.pdf) for a pdf version of my CV!
 """, unsafe_allow_html=True)
 
