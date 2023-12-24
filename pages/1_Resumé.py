@@ -23,10 +23,10 @@ st.markdown("""
 - I play a pivotal role in developing and deploying innovative machine learning solutions in the cloud for diverse challenges. My responsibilities include:
     1) Machine Learning Development:
         - Optimizing algorithms and tuning parameters for object detection, achieving a 10% improvement in accuracy.
-        - Creating and deploying Generative AI tools for computer vision tasks (Speech Recognition).
-        - Developing knowledge graphs and machine learning models for monitoring fraudulent activities over broadcast networks, focusing on real-world applicability.
+        - Creating and deploying Generative AI tools for language and computer vision tasks.
+        - Developing knowledge graphs and machine learning models, also with NLP embedding techniques, for monitoring fraudulent activities over broadcast networks.
     2) Cloud Engineering and Deployment:
-        - Participating in the cloud migration strategy, transitioning from VMs to a microservices architecture using Docker and APIs, resulting in a 30% reduction in execution time and enhanced logging management.
+        - Participating in the cloud migration strategy, transitioning from VMs to a microservices architecture inside GCP, resulting in a 30% reduction in execution time and enhanced logging.
         - Conducting code reviews and debugging, ensuring robust and efficient team output, and fostering collaboration within the team.
 
 **June 2018 - Feb 2022 : Data Scientist @ [Wealthype](https://wealthype.ai/it/)**
