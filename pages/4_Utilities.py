@@ -7,7 +7,7 @@ st.set_page_config(
     page_icon="🛠️",
 )
 
-utils.add_logo("../images/foto_dani_cartoon.png","Daniele D'Avino",'Machine Learning Engineer @ Sky',200,"black",False)
+utils.add_logo("../../images/foto_dani_cartoon.png","Daniele D'Avino",'Machine Learning Engineer @ Sky',200,"black",False)
 
 utils.sidebar_creation()
 
