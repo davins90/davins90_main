@@ -123,7 +123,7 @@ I developed an agile working methodology using the following tools:
 with open("attachments/cv_daniele_davino.pdf", "rb") as pdf_file:
     PDFbyte = pdf_file.read()
 
-st.download_button(label="Donwload CV!",
+st.download_button(label="Donwload PDF CV",
                     data=PDFbyte,
                     file_name="cv_daniele_davino.pdf",
                     mime='application/octet-stream')
