@@ -2,6 +2,9 @@ import streamlit as st
 
 from utils import utils
 
+import os
+st.write(os.getcwd())
+
 st.set_page_config(
     page_title="Home - davins90",
     page_icon="🏠",
