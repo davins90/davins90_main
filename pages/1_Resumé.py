@@ -23,8 +23,8 @@ st.markdown("""
 - I play a pivotal role in developing and deploying innovative machine learning solutions in the cloud for diverse challenges. My responsibilities include:
     1) Machine Learning Development:
         - Optimizing algorithms and tuning parameters for object detection, achieving a 10% improvement in accuracy.
-        - Creating and deploying Generative AI tools for language and computer vision tasks.
-        - Developing knowledge graphs and machine learning models, also with NLP embedding techniques, for monitoring fraudulent activities over broadcast networks.
+        - Creating and deploying Generative AI tools for language and computer vision tasks, reducing execution time by 50%.
+        - Developing and cloud-deploying Machine Learning models for monitoring IP activities over broadcast networks.
     2) Cloud Engineering and Deployment:
         - Participating in the cloud migration strategy, transitioning from VMs to a microservices architecture inside GCP, resulting in a 30% reduction in execution time and enhanced logging.
         - Conducting code reviews and debugging, ensuring robust and efficient team output, and fostering collaboration within the team.
@@ -37,6 +37,7 @@ st.markdown("""
     - Network analysis
     - Master thesis projects tutoring
     - Webapp prototyping
+- [International PATENT] about customized financial portfolio construction method.
 
 **Feb 2016 - June 2018 : Quantitative Analyst @ AdviseOnly**
 - Managed a wealth management digital platform on every field of the management flow (Engagement tools, profiling, asset allocation, risk analytics and CRM). Main tasks:
@@ -44,11 +45,6 @@ st.markdown("""
     - Forecasting scenarios
     - Risk metrics
     - Prepared report, analysis and wrote news about economics and financial thematic for financial blogs and banking institution.
-
-## Volunteering
-
-**November 2023 - Present : Data Scientist @ [MeteoNetwork ODV](https://www.meteonetwork.it/)**
-- As a Data Scientist, I focus on ensuring the data quality of information sourced from weather stations to improve anomaly detection and guarantee the credibility of the data.
 
 ## Professional Certifications
 
