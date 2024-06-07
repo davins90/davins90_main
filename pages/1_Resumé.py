@@ -37,7 +37,7 @@ st.markdown("""
     - Network analysis
     - Master thesis projects tutoring
     - Webapp prototyping
-- [International PATENT] about customized financial portfolio construction method.
+- [International PATENT](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2023089554&_cid=P11-LX59YG-74561-1) about customized financial portfolio construction method.
 
 **Feb 2016 - June 2018 : Quantitative Analyst @ AdviseOnly**
 - Managed a wealth management digital platform on every field of the management flow (Engagement tools, profiling, asset allocation, risk analytics and CRM). Main tasks:
